@@ -1,5 +1,5 @@
 body {
-	background-image: url("/tło.webp");
+	background-image: url("../tło.webp");
 }
 
 h1 {
@@ -72,19 +72,19 @@ iframe {
 .paczki:hover ~ .zmiana {
 	margin-top: 8%;
 	margin-left: 2cm;
-	background-image: url("/paczki-z-dzemem.jpeg");
+	background-image: url("../paczki-z-dzemem.jpeg");
 	border: 2px solid black;
 }
 .faworki:hover ~ .zmiana {
 	margin-top: 8%;
 	margin-left: 2cm;
-	background-image: url("/faworki.jpg");
+	background-image: url("../faworki.jpg");
 	border: 2px solid black;
 }
 .Donuts:hover ~ .zmiana {
 	margin-top: 8%;
 	margin-left: 2cm;
-	background-image: url("/donuts.jpg");
+	background-image: url("../donuts.jpg");
 	border: 2px solid black;
 }
 
